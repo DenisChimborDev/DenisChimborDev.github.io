@@ -557,7 +557,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\Dev\grill-master\src\styles.scss */"./src/styles.scss");
+module.exports = __webpack_require__(/*! C:\Dev\grill-master\src\styles.scss */"./src/styles.scss");
 
 
 /***/ })
